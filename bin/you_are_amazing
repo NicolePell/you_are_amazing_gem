@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'you_are_amazing'
+
+YouAreAmazing.speak
